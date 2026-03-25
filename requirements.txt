@@ -6,3 +6,5 @@ scipy
 jupyter
 statsmodels
 arch
+scikit-learn
+xgboost
